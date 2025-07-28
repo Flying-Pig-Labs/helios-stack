@@ -1,0 +1,1 @@
+{"timestamp": "2025-07-28T16:58:06.417057", "level": "INFO", "logger": "headless_research.src.claude.cli_interface", "message": "Claude CLI verified: 1.0.61 (Claude Code)", "module": "cli_interface", "function": "_verify_claude_available", "line": 68}
